@@ -102,41 +102,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-4,
-				0
-			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				11
+				26,
+				172
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -146,8 +113,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				37,
-				5
+				26,
+				180
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -157,50 +124,17 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				69
+				26,
+				198
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
 			"name": "BF Dead confirm",
 			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-16
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/Mario_BoyFriend_Assets_v1",
 	"position": [
 		0,
 		350

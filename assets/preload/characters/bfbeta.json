@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "Boyfriend idle dance",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF NOTE LEFT0",
+			"name": "Boyfriend NOTE LEFT0",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"name": "Boyfriend NOTE DOWN0",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF NOTE UP0",
+			"name": "Boyfriend NOTE UP0",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "Boyfriend NOTE RIGHT0",
 			"indices": []
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
+			"name": "Boyfriend NOTE LEFT MISS",
 			"indices": []
 		},
 		{
@@ -74,7 +74,7 @@
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
+			"name": "Boyfriend NOTE DOWN MISS",
 			"indices": []
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "BF NOTE UP MISS",
+			"name": "Boyfriend NOTE UP MISS",
 			"indices": []
 		},
 		{
@@ -96,111 +96,45 @@
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
+			"name": "Boyfriend NOTE RIGHT MISS",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-4,
-				0
-			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				11
+				17,
+				191
 			],
 			"anim": "firstDeath",
 			"fps": 24,
-			"name": "BF dies",
+			"name": "Boyfriend dies",
 			"indices": []
 		},
 		{
 			"loop": true,
 			"offsets": [
-				37,
-				5
+				17,
+				191
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "BF Dead Loop",
+			"name": "Boyfriend Dead Loop",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				69
+				17,
+				209
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BF Dead confirm",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-16
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
+			"name": "Boyfriend Dead confirm",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BoyFriend_Beta_Assets_v1",
 	"position": [
 		0,
 		350
